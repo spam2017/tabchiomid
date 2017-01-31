@@ -25,7 +25,7 @@ Enjoy Your New Bot!
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
 ## Developers
 
- * [BugFather (Amir_h)](https://telegram.me/BugFather)
+ * [BugFather (eblis)](https://telegram.me/BugFather)
  * [eblis(omid)](https://telegram.me/Mn_N_Mnm_N_Mn_Mnm)
 
 ### Powered by [iTeam](https://telegram.me/Mn_N_Mnm_N_Mn_Mnm)
